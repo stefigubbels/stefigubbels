@@ -1,3 +1,5 @@
+![image](https://github.com/stefigubbels/stefigubbels/assets/104583079/edcb0d31-de4b-42a2-947d-f26a4b85d64c)
+
 # Hi there 👋 I'm Stefi
 
 - 🔭 Account Manager at GitHub
