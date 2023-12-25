@@ -4,7 +4,6 @@
 - 💡 Here to help you get the most out of GitHub's incredible features.
 - 🚀 Boosting your projects and making your coding life smoother.
 - 📍 Based in San Francisco.
-- 💬 Got burning questions about GitHub? Ask away!
 
 
 ## 📫 How to Reach Me
