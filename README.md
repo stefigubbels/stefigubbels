@@ -1,4 +1,5 @@
-![image](https://github.com/stefigubbels/stefigubbels/assets/104583079/edcb0d31-de4b-42a2-947d-f26a4b85d64c)
+![image](https://github.com/stefigubbels/stefigubbels/assets/104583079/08587bd2-2650-4af7-b855-beb42e102a6e)
+
 
 # Hi there 👋 I'm Stefi
 
