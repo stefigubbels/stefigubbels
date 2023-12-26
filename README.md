@@ -4,9 +4,9 @@
 # Hi there 👋 I'm Stefi
 
 - 🔭 Account Manager at GitHub
-- 💡 Here to help you get the most out of GitHub's incredible features.
-- 🚀 Boosting your projects and making your coding life smoother.
-- 📍 Based in San Francisco.
+- 💡 Here to help you get the most out of GitHub's incredible features
+- 🚀 Boosting your projects and making your coding life smoother
+- 📍 Based in San Francisco
 
 
 ## 📫 How to Reach Me
@@ -17,10 +17,10 @@ Feel free to drop me a line if you have questions, feedback, or if you just want
 <br>
 
 ## 🔐 Advanced Security 
-- [Why you should give it a try](https://nickliffen.dev/articles/why-advanced-security.html)
-- [Can you shift too far left?](https://colinsalmcorner.com/shift-left-how-far-is-too-far/)
+- [Why You Should Give It a Try](https://nickliffen.dev/articles/why-advanced-security.html)
+- [Can You Shift Too Far Left?](https://colinsalmcorner.com/shift-left-how-far-is-too-far/)
 ## 🤖 Copilot 
-- [All resources in one place](https://gist.github.com/bthomas2622/fbf87a742a33cb5bb9a2826b112689c8)
+- [All Resources in One Place](https://gist.github.com/bthomas2622/fbf87a742a33cb5bb9a2826b112689c8)
 - [Pro Tips for Success](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
 - [What's the ROI](https://www.faros.ai/blog/is-github-copilot-worth-it-real-world-data-reveals-the-answer)
 ## 🚀 Actions 
@@ -28,6 +28,6 @@ Feel free to drop me a line if you have questions, feedback, or if you just want
 - [Some awesome Actions](https://github.com/sdras/awesome-actions)
 - [GitHub Marketplace Treasures](https://github.com/marketplace?type=actions)
 ## 👀 More Stuff
-- [Upcoming webinars](https://resources.github.com/events/)
+- [Upcoming Webinars](https://resources.github.com/events/)
 - [GitHub Public Roadmap](https://github.com/orgs/github/projects/4247), want to join a private beta? Let me know!
 
