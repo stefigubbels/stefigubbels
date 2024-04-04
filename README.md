@@ -3,7 +3,7 @@
 
 # Hi there 👋 I'm Stefi
 
-- 🔭 Account Manager at GitHub
+- 🔭 Account Executive at GitHub
 - 💡 Here to help you get the most out of GitHub's incredible features
 - 🚀 Boosting your projects and making your coding life smoother
 - 📍 Based in San Francisco
@@ -19,6 +19,7 @@ Feel free to drop me a line if you have questions, feedback, or if you just want
 ## 🔐 Advanced Security 
 - [Why You Should Give It a Try](https://nickliffen.dev/articles/why-advanced-security.html)
 - [Can You Shift Too Far Left?](https://colinsalmcorner.com/shift-left-how-far-is-too-far/)
+- [Key Features and Stats  ](https://github.com/enterprise/advanced-security)
 ## 🤖 Copilot 
 - [All Resources in One Place](https://gist.github.com/bthomas2622/fbf87a742a33cb5bb9a2826b112689c8)
 - [Pro Tips for Success](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
