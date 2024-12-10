@@ -4,13 +4,13 @@
 # Hi there 👋 I'm Stefi
 
 - 🔭 Account Executive at GitHub
-- 💡 Here to help you get the most out of GitHub's incredible features
+- 💡 Here to help you get the most out of GitHub's features
 - 🚀 Boosting your projects and making your coding life smoother
 - 📍 Based in San Francisco
 
 
 ## 📫 How to Reach Me
-Feel free to drop me a line if you have questions, feedback, or if you just want to chat about the latest in the GitHubverse. Can't wait to team up and make your GitHub experience awesome! 🎉
+Feel free to drop me a line if you have questions, feedback, or if you just want to chat about the latest at GitHub 🎉
 
 [![Alt text](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:stefigubbels@github.com)  [![Alt text](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/stefi-gubbels/)   [![Alt text](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://support.github.com/)
 
