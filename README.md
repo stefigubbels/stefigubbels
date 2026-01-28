@@ -1,34 +1,34 @@
-![image](https://github.com/stefigubbels/stefigubbels/assets/104583079/08587bd2-2650-4af7-b855-beb42e102a6e)
+![image](<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/b9eea423-a5cd-4106-9b62-4628a41ba848" />)
 
 
 # Hi there 👋 I'm Stefi
 
-- 🔭 Account Executive at GitHub
-- 💡 Here to help you get the most out of GitHub's features
-- 🚀 Boosting your projects and making your coding life smoother
+- 🔭 Account Executive at XBOW
+- 💡 Here to help teams strengthen security with AI-powered offensive testing
+- 🚀 Making it easier to find and fix vulnerabilities before attackers do
 - 📍 Based in San Francisco
 
 
 ## 📫 How to Reach Me
 Feel free to drop me a line if you have questions, feedback, or if you just want to chat about the latest at GitHub 🎉
 
-[![Alt text](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:stefigubbels@github.com)  [![Alt text](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/stefi-gubbels/)   [![Alt text](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://support.github.com/)
+[![Alt text](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:stefi.gubbels@xbow.com)  [![Alt text](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/stefi-gubbels/)   [![Alt text](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://support.github.com/)
 
 <br>
 
-## 🔐 Advanced Security 
-- [Why You Should Give It a Try](https://nickliffen.dev/articles/why-advanced-security.html)
-- [Can You Shift Too Far Left?](https://colinsalmcorner.com/shift-left-how-far-is-too-far/)
-- [Key Features and Stats  ](https://github.com/enterprise/advanced-security)
-## 🤖 Copilot 
-- [All Resources in One Place](https://gist.github.com/bthomas2622/fbf87a742a33cb5bb9a2826b112689c8)
-- [Pro Tips for Success](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
-- [What's the ROI](https://www.faros.ai/blog/is-github-copilot-worth-it-real-world-data-reveals-the-answer)
-## 🚀 Actions 
-- [Lost in GitHub Space? Start Here](https://gist.github.com/dane-joh/c07faca5a33681c01ac7933d165f5fe7)
-- [Some awesome Actions](https://github.com/sdras/awesome-actions)
-- [GitHub Marketplace Treasures](https://github.com/marketplace?type=actions)
+## 🔐 Offensive Security, Automated
+- [Why Offensive Testing Matters More Than Ever](https://owasp.org/)
+- [Pentesting vs Continuous Validation](https://www.gartner.com/en/articles/continuous-security-testing)
+- [Modern Security Teams Need Speed + Depth](https://www.microsoft.com/en-us/security/business/security-101)
+## 🤖 AI-Powered Vulnerability Discovery 
+- XBOW uses AI to uncover real, exploitable vulnerabilities faster
+- Continuous testing that scales with your development lifecycle
+- Helps security teams stay ahead of evolving threats
+## 🚀 Security That Fits Into DevOps 
+- Integrate testing into CI/CD workflows
+- Reduce time-to-remediation with actionable findings
+- Empower engineering teams with clear fixes, not noise
 ## 👀 More Stuff
-- [Upcoming Webinars](https://resources.github.com/events/)
-- [GitHub Public Roadmap](https://github.com/orgs/github/projects/4247), want to join a private beta? Let me know!
+- Want to see XBOW in action? Let’s schedule a quick demo
+- Curious how AI can strengthen your AppSec program? Reach out anytime!
 
