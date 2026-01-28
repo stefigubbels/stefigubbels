@@ -1,4 +1,4 @@
-![image](<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/b9eea423-a5cd-4106-9b62-4628a41ba848" />)
+<img width="1584" height="396" alt="LinkedIn Employee Banner-Light (1)" src="https://github.com/user-attachments/assets/a97750c8-fb9d-4ad2-8389-451c8d6dde4a" />
 
 
 # Hi there 👋 I'm Stefi
